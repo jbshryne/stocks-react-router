@@ -25,7 +25,7 @@ const Stonk = ({ stonkData }) => {
       </h3>
       <hr/>
       <h4>
-        Last Price: <b>{stonk.lastPrice}</b>
+        Last Price: <b>${stonk.lastPrice}</b>
       </h4>
       <h4>
         Price Change:{" "}
